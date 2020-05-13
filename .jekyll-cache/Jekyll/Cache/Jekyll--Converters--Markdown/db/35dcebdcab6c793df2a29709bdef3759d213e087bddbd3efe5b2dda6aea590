@@ -1,0 +1,254 @@
+I" 7<!-- This is my photos. -->
+
+<style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+</style>
+
+<ul class="image-gallery">
+    
+    <li>
+        <a href="/images/flowers/20200427_113731.jpg" title="20200427_113731">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200427_113731.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200427_113731" />
+           <!--  <span>20200427_113731</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200429_175615.jpg" title="20200429_175615">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200429_175615.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200429_175615" />
+           <!--  <span>20200429_175615</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200429_175826.jpg" title="20200429_175826">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200429_175826.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200429_175826" />
+           <!--  <span>20200429_175826</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200429_180338.jpg" title="20200429_180338">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200429_180338.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200429_180338" />
+           <!--  <span>20200429_180338</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200430_145003.jpg" title="20200430_145003">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200430_145003.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200430_145003" />
+           <!--  <span>20200430_145003</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200430_150711.jpg" title="20200430_150711">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200430_150711.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200430_150711" />
+           <!--  <span>20200430_150711</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200430_151250.jpg" title="20200430_151250">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200430_151250.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200430_151250" />
+           <!--  <span>20200430_151250</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200501_113917.jpg" title="20200501_113917">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200501_113917.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200501_113917" />
+           <!--  <span>20200501_113917</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200501_170613.jpg" title="20200501_170613">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200501_170613.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200501_170613" />
+           <!--  <span>20200501_170613</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200502_092743.jpg" title="20200502_092743">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200502_092743.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200502_092743" />
+           <!--  <span>20200502_092743</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200502_175819.jpg" title="20200502_175819">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200502_175819.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200502_175819" />
+           <!--  <span>20200502_175819</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200502_175828.jpg" title="20200502_175828">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200502_175828.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200502_175828" />
+           <!--  <span>20200502_175828</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200503_092324.jpg" title="20200503_092324">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200503_092324.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200503_092324" />
+           <!--  <span>20200503_092324</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200503_173956.jpg" title="20200503_173956">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200503_173956.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200503_173956" />
+           <!--  <span>20200503_173956</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200503_174122.jpg" title="20200503_174122">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200503_174122.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200503_174122" />
+           <!--  <span>20200503_174122</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200503_174140.jpg" title="20200503_174140">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200503_174140.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200503_174140" />
+           <!--  <span>20200503_174140</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200503_174851.jpg" title="20200503_174851">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200503_174851.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200503_174851" />
+           <!--  <span>20200503_174851</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200503_174859.jpg" title="20200503_174859">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200503_174859.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200503_174859" />
+           <!--  <span>20200503_174859</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200505_120231.jpg" title="20200505_120231">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200505_120231.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200505_120231" />
+           <!--  <span>20200505_120231</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200505_125247.jpg" title="20200505_125247">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200505_125247.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200505_125247" />
+           <!--  <span>20200505_125247</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200505_125603.jpg" title="20200505_125603">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200505_125603.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200505_125603" />
+           <!--  <span>20200505_125603</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200505_174918.jpg" title="20200505_174918">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200505_174918.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200505_174918" />
+           <!--  <span>20200505_174918</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200506_080049.jpg" title="20200506_080049">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200506_080049.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200506_080049" />
+           <!--  <span>20200506_080049</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200506_174800.jpg" title="20200506_174800">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200506_174800.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200506_174800" />
+           <!--  <span>20200506_174800</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200506_174812.jpg" title="20200506_174812">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200506_174812.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200506_174812" />
+           <!--  <span>20200506_174812</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200506_174822.jpg" title="20200506_174822">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200506_174822.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200506_174822" />
+           <!--  <span>20200506_174822</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200507_163343.jpg" title="20200507_163343">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200507_163343.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200507_163343" />
+           <!--  <span>20200507_163343</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200507_163402.jpg" title="20200507_163402">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200507_163402.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200507_163402" />
+           <!--  <span>20200507_163402</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200507_163411.jpg" title="20200507_163411">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200507_163411.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200507_163411" />
+           <!--  <span>20200507_163411</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200507_164458.jpg" title="20200507_164458">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200507_164458.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200507_164458" />
+           <!--  <span>20200507_164458</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200508_174245.jpg" title="20200508_174245">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200508_174245.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200508_174245" />
+           <!--  <span>20200508_174245</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200508_181738.jpg" title="20200508_181738">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200508_181738.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200508_181738" />
+           <!--  <span>20200508_181738</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200510_091059.jpg" title="20200510_091059">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200510_091059.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200510_091059" />
+           <!--  <span>20200510_091059</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200511_084536.jpg" title="20200511_084536">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200511_084536.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200511_084536" />
+           <!--  <span>20200511_084536</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200511_084752.jpg" title="20200511_084752">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200511_084752.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200511_084752" />
+           <!--  <span>20200511_084752</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200511_191223.jpg" title="20200511_191223">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200511_191223.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200511_191223" />
+           <!--  <span>20200511_191223</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200512_174302.jpg" title="20200512_174302">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200512_174302.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200512_174302" />
+           <!--  <span>20200512_174302</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200512_175850.jpg" title="20200512_175850">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200512_175850.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200512_175850" />
+           <!--  <span>20200512_175850</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200513_174459.jpg" title="20200513_174459">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200513_174459.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200513_174459" />
+           <!--  <span>20200513_174459</span> -->
+        </a>
+    </li>
+    <li>
+        <a href="/images/flowers/20200513_181241.jpg" title="20200513_181241">
+            <img src="//images.weserv.nl/?url=localhost:4000/images/flowers/20200513_181241.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="20200513_181241" />
+           <!--  <span>20200513_181241</span> -->
+        </a>
+    </li>
+</ul>
+:ET
