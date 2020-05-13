@@ -1,4 +1,4 @@
-title: Think outside the box
+title: Think outside the fox
 description: "A place we I talk to myself. But you can listen, too."
 author:
   name: "oattao"
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "oattao"
+owner : "Think outside the fox"
 year : "2200"
