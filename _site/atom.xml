@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Think outside the box</title>
+    <description>A place we I talk to myself. But you can listen, too.</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <author>
+      <name>oattao</name>
+      <email>oattao@mail.ulsan.ac.kr</email>
+      <uri>https://oattao.github.com</uri>
+    </author>
+    
+      <item>
+        <title>Welcome</title>
+        <description>&lt;p&gt;This is the first time I make a website. I don’t know why I want to do this. Maybe because I am going to graduate next semester and and start my developer career. And maybe building a website is a good begining. With this website, I am going to share things that I think they helpfull or funny for orther people. Again, welcome!. Connect me on &lt;a href=&quot;https://www.facebook.com/duytang.hoang&quot;&gt;Facebook&lt;/a&gt; and take a look on &lt;a href=&quot;https://www.github.com/oattao&quot;&gt;my github repositories&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 13 May 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//Welcome</link>
+        <link href="http://localhost:4000/Welcome"/>
+        <guid isPermaLink="true">http://localhost:4000/Welcome</guid>
+      </item>
+    
+  </channel>
+</rss>
