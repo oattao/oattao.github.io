@@ -1,0 +1,7 @@
+I"8<div>
+<a style="text-align: center" href="/apps/coin_counting/coin_counting.html">
+    <label style="align-content: center" for="app_image">Coin counting</label><br />
+<img id="app_image" src="/apps/coin_counting/coin_couting_profile.jpeg" width="200px" alt="App proflie" style="cursor: pointer;" />
+</a>
+</div>
+:ET
