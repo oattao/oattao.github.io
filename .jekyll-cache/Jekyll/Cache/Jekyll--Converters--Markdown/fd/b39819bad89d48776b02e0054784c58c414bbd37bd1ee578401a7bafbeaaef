@@ -1,7 +1,0 @@
-I"ÿ<div>
-<a href="/apps/coin_counting/coin_counting.html">
-    <label for="app_image">Coin counting</label><br />
-<img id="app_image" src="/apps/coin_counting/coin_couting_profile.jpeg" width="200px" alt="App proflie" style="cursor: pointer;" />
-</a>
-</div>
-:ET

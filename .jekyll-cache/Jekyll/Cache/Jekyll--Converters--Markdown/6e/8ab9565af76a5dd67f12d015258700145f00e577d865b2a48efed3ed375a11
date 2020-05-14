@@ -1,7 +1,7 @@
-I"/<div style="width: 200px">
+I"<div style="width: 200px; text-align: center;">
 <a style="text-decoration:none" href="/apps/coin_counting/coin_counting.html">
     <div style="text-align: center">
-        <label style="cursor: pointer; font-size: 25; font-family: cursive;" for="app_image">Coin counting</label><br />
+        <label style="cursor: pointer;" for="app_image">Coin counting</label><br />
     </div>
     <div class="tooltip">
         <img id="app_image" src="/apps/coin_counting/coin_couting_profile.jpeg" width="200px" alt="App proflie" style="cursor:pointer;" />
