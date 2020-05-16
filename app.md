@@ -24,8 +24,8 @@ title: Apps
         <label style="cursor: pointer;" for="app_image">Hand writing</label><br>
     </div>
     <div class="tooltip">
-        <img style="border-color: orange"  id="app_image" src="/apps/handreg/handreg_profile.png" width="150px" alt="App proflie" style="cursor:pointer;">
-        <span class="tooltiptext">Write something, I will digitialize it for you.</span>
+        <img id="app_image" src="/apps/handreg/handreg_profile.png" width="150px" alt="App proflie" style="cursor:pointer;">
+        <span class="tooltiptext">Write something, I will digitalize it for you.</span>
     </div>
 </a>
 </div>
