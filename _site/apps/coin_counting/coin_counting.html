@@ -3,17 +3,21 @@
     <!-- Load the latest version of TensorFlow.js -->
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet"></script>
+    <script type="text/javascript" src="script.js"></script>
   </head>
   <body>
-    <div id="console"></div>
-    <!-- Add an image that we will use to test -->
-    <!-- <img id="img" crossorigin src="https://i.imgur.com/JlUvsxa.jpg" width="227" height="227"/> -->
+    <h1>Step 1: Ask user upload an image</h1>
 
-  <video autoplay playsinline muted id="webcam" width="224" height="224"></video>
+    <p><input type="file"  accept="image/*" name="file" id="file"  onchange="showImage(event)" style="display: none;" value="Select image" required></p>
+    <p>
+      <label for="file" style="cursor: pointer;">Upload an image</label> </p>
+    <h2>Image preview</h2>
+    <p><img id="output"></p>
+  
+    <h1>Step 2: Resize image</h1>
+    
 
-    <!-- Load index.js after the content of the page -->
-    <script src="script.js"></script>
+
   </body>
-
 </html>
 
