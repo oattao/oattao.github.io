@@ -3,7 +3,7 @@ layout: apps_page
 title: Apps
 ---
 
-<div style="width: 510px">
+<div style="width: 520px">
 <div style="width: 150px; float: left;">
 <a style="text-decoration:none" href="/apps/coincount/index.html">
     <div style="text-align: center">
@@ -24,7 +24,7 @@ title: Apps
         <label style="cursor: pointer;" for="app_image">Hand writing</label><br>
     </div>
     <div class="tooltip">
-        <img id="app_image" src="/apps/handreg/profile.jpg" width="150px" alt="App proflie" style="cursor:pointer;">
+        <img id="app_image" src="/apps/handreg/profile.png" width="150px" alt="App proflie" style="cursor:pointer;">
         <span class="tooltiptext">Write something, I will digitalize it for you.</span>
     </div>
 </a>
