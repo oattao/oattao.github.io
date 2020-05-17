@@ -12,6 +12,17 @@
     </author>
     
       <item>
+        <title>Start learning Javascript</title>
+        <description>&lt;p&gt;Today I start learning a new programing language: Javascript. So much difficulties. But I have to try because the &lt;a href=&quot;https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html&quot;&gt;TensorflowJs&lt;/a&gt; applications runing on browser look so cool. Anyway, I don’t need to be hurry. Slow down and enjoy the progress. Check out my first javascript app: &lt;a href=&quot;http://localhost:4000/apps/faceplace/index.html&quot;&gt;Faceplace&lt;/a&gt; - play with your face.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 17 May 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//start_js</link>
+        <link href="http://localhost:4000/start_js"/>
+        <guid isPermaLink="true">http://localhost:4000/start_js</guid>
+      </item>
+    
+      <item>
         <title>Flowers</title>
         <description>&lt;p&gt;My page is too dark? Take a rest, enjoy some colors.&lt;/p&gt;
 
