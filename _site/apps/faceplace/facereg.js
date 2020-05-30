@@ -12,14 +12,14 @@ async function start() {
     document.body.append(container);
     const labeledFaceDescriptors = await loadLabeledImages();
     const faceMatcher = new faceapi.FaceMatcher(labeledFaceDescriptors, 0.6);
-    let image;
-    let canvas;
+    let image
+    let canvas
     imageUpload.addEventListener('change', async () => {
-        if (image) image.remove();
-        if (canvas) canvas.remove();
-        const image = await faceapi.bufferToImage(imageUpload.files[0]);
+        if (image) image.remove()
+        if (canvas) canvas.remove()
+        image = await faceapi.bufferToImage(imageUpload.files[0]);
         container.append(image);
-        const canvas = faceapi.createCanvasFromMedia(image);
+        canvas = faceapi.createCanvasFromMedia(image);
         container.append(canvas);
         const displaySize = {width: image.width, height: image.height}
         faceapi.matchDimensions(canvas, displaySize);
@@ -35,19 +35,18 @@ async function start() {
         })
     })
 }
-
+         
 function loadLabeledImages() {
-    const labels = ['Rose', 'Jisoo', 'Jenie', 'Lisa'];
+    const labels = ['Rose', 'Jisoo', 'Jenie', 'Lisa']
     return Promise.all(
         labels.map(async label => {
-            const descriptions = [];
+            const descriptions = []
             for (let i=1; i<2; i++) {
-                const img = await faceapi.fetchImage('https://github.com/oattao/oattao.github.io/tree/master/apps/faceplace/labeled_images/${label}/${i}.jpg')
-                const detections = await faceapi.detectSingleFace(img)
-                .withFaceLandmarks().withFaceDescriptors();
-                descriptions.push(detections.descriptor);   
+                const img = await faceapi.fetchImage(`http://localhost:4000/apps/faceplace/labeled_images/${label}/${i}.jpg`)
+                const detections = await faceapi.detectSingleFace(img).withFaceLandmarks().withFaceDescriptor()
+                descriptions.push(detections.descriptor) 
             }
-            return new faceapi.LabeledFaceDescriptors(label, descriptions);
+            return new faceapi.LabeledFaceDescriptors(label, descriptions)
         })
     )
 }
