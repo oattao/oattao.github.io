@@ -1,0 +1,33 @@
+<html>
+<head>
+    <title>Face mesh</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <!-- <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-core"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-converter"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/facemesh"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js"> </script>
+</head>
+
+<body style="background-image: url('bkg.png')">
+    <div class="sidenav">
+<!--         <span>
+            <a href="{{ "/apps" | prepend: site.baseurl | replace: '//', '/' }}"><h2 class="header-link">Apps</h2></a>
+        </span> -->
+        <span>
+            <a href="facemesh.html" onclick="return false;">Face mesh</a>
+        </span>
+        <span>
+            <a href="facesum.html">Face fun</a>
+        </span>
+        <span>
+            <a href="facereg.html">TeSt</a> 
+        </span>
+    </div>
+    <div id="content" class="main">
+        <video width="640" height="480" autoplay id="movie"> </video>
+        <canvas width="640" height="480" id="facemesh"> </canvas><br>
+        <script type="text/javascript" src="script2.js"></script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A place to play with face</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script defer src="face-api.min.js"></script>
+  <script defer src="script.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <style>
+      body {
+        background-image: url("bkg.png");
+        margin: 0;
+        padding: 0;
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      canvas {
+        position: absolute;
+      }
+  </style>
+
+</head>
+<body>
+    <div class="sidenav">
+        <span>
+            <a href="facemesh.html">Face mesh</a>
+        </span>
+        <span>
+            <a href="facesum.html" onclick="return false;">Face fun</a>
+        </span>
+        <span>
+            <a href="test.html">TeSt</a> 
+        </span>
+    </div>
+
+    <div id="content" class="main">
+        <video id="video" width="720" height="560" autoplay muted></video>    
+    </div>
+</body>
+</html>

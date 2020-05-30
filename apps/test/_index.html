@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Test camera </title>
+ <script type="text/javascript" src="script.js"></script> 
+<style>
+.container {
+    margin: 0px auto;
+    width: 500px;
+    height: 375px;
+    border: 10px #333 solid;
+}
+.video {
+    width: 500px;
+
+    height: 375px;
+    background-color: #666;
+}
+.canvas {
+    width: 500px;
+    height: 375px;
+}
+</style>
+</head>
+ 
+<body>
+<div class="container">
+    <video autoplay="true" id="videoElement" class="video"></video>
+    <!-- <script type="text/javascript">loadCamera()</script> -->
+</div>
+
+<button id="snap" onclick="snapImage()">Snap photo</button>
+<div class="container">
+    <canvas id="canvas" class="canvas" onmouseover="showAlert()"></canvas>
+</div>
+
+
+</body>
+</html>
