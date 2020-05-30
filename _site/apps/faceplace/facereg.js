@@ -42,7 +42,9 @@ function loadLabeledImages() {
         labels.map(async label => {
             const descriptions = []
             for (let i=1; i<2; i++) {
-                const img = await faceapi.fetchImage(`http://localhost:4000/apps/faceplace/labeled_images/${label}/${i}.jpg`)
+                // const img = await faceapi.fetchImage(`http://localhost:4000/apps/faceplace/labeled_images/${label}/${i}.jpg`)
+                // const img = await faceapi.fetchImage(`https://github.com/oattao/oattao.github.io/tree/master/apps/faceplace/labeled_images/${label}/${i}.jpg`)
+                const img = await faceapi.fetchImage(`/apps/faceplace/labeled_images/${label}/${i}.jpg`)
                 const detections = await faceapi.detectSingleFace(img).withFaceLandmarks().withFaceDescriptor()
                 descriptions.push(detections.descriptor) 
             }
