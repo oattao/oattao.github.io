@@ -19,12 +19,12 @@ title: Apps
 <div style="width: 20px; display: inline-block;"></div>
 
 <div style="width: 150px; display: inline-block;">
-<a style="text-decoration:none" href="/apps/handreg/handreg.html">
+<a style="text-decoration:none" href="/apps/airdrum/index.html">
     <div style="text-align: center">
-        <label style="cursor: pointer;" for="app_image">Hand writing</label><br>
+        <label style="cursor: pointer;" for="app_image">Air Drum</label><br>
     </div>
     <div class="tooltip">
-        <img id="app_image" src="/apps/handreg/profile.png" width="150px" alt="App proflie" style="cursor:pointer;">
+        <img id="app_image" src="/apps/airdrum/profile.png" width="150px" alt="App proflie" style="cursor:pointer;">
         <span class="tooltiptext">Write something, I will digitalize it for you.</span>
     </div>
 </a>
