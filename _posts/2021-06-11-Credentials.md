@@ -11,4 +11,7 @@ DH
 
 ### Large image
 
-![](https://github.com/oattao/oattao.github.io/blob/master/images/certifications/dh.png)
+<img src="images/certifications/dh.png" class="img-responsive" alt=""> </div>
+
+
+<!-- ![](https://github.com/oattao/oattao.github.io/blob/master/images/certifications/dh.png) -->
