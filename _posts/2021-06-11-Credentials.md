@@ -11,7 +11,9 @@ DH
 
 ### Large image
 
-<img src="images/certifications/dh.png" class="img-responsive" alt=""> </div>
+<embed src="https://oattao.github.io/dh.pdf" type="application/pdf" />
+
+<!-- <img src="images/certifications/dh.png" class="img-responsive" alt=""> </div> -->
 
 
 <!-- ![](https://github.com/oattao/oattao.github.io/blob/master/images/certifications/dh.png) -->
