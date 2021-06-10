@@ -6,12 +6,15 @@ categories: fun
 publised: true
 <!-- categories chenge: use when something change in the website -->
 ---
-### 
+<br/><br/>
+<br/><br/>
+
 ### The Grandmaster of Consuming Ice Cream
 ### Issued on:  June 11, 2021
+### Certification ID: IX21JS
 
 <!-- <embed src="https://oattao.github.io/dh.pdf" width="1660" height="1192px" /> -->
-
+<br/><br/>
 <img src="images/certifications/dh.png" align="center" class="img-responsive" alt="">
 
 
