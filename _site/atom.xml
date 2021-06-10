@@ -2,29 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Think outside the fox</title>
-    <description>A place we I talk to myself. But you can listen, too.</description>
+    <description>A place where I talk to myself. But you can listen, too.</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <author>
       <name>oattao</name>
-      <email>oattao@mail.ulsan.ac.kr</email>
+      <email>hoang.duy.tang@gmail.com</email>
       <uri>https://oattao.github.com</uri>
     </author>
     
       <item>
-        <title>Start learning Javascript</title>
-        <description>&lt;p&gt;Today I start learning a new programing language: Javascript. So much difficulties. But I have to try because the &lt;a href=&quot;https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html&quot;&gt;TensorflowJs&lt;/a&gt; applications runing on browser look so cool. Anyway, I don’t need to be hurry. Slow down and enjoy the progress. Check out my first javascript app: &lt;a href=&quot;http://localhost:4000/apps/faceplace/index.html&quot;&gt;Faceplace&lt;/a&gt; - play with your face.&lt;/p&gt;
-
+        <title>Certified by Interx CEO (Chief Eating Officer)</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;certification-id-ix21js&quot;&gt;Certification ID: IX21JS&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;images/certifications/dh.png&quot; align=&quot;center&quot; class=&quot;img-responsive&quot; alt=&quot;&quot; /&gt;
+&lt;!-- &lt;embed src=&quot;https://oattao.github.io/dh.pdf&quot; width=&quot;1660&quot; height=&quot;1192px&quot; /&gt; --&gt;
+&lt;!-- ![](https://github.com/oattao/oattao.github.io/blob/master/images/certifications/dh.png) --&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 17 May 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//start_js</link>
-        <link href="http://localhost:4000/start_js"/>
-        <guid isPermaLink="true">http://localhost:4000/start_js</guid>
+        <pubDate>Fri, 11 Jun 2021 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//Credentials</link>
+        <link href="http://localhost:4000/Credentials"/>
+        <guid isPermaLink="true">http://localhost:4000/Credentials</guid>
       </item>
     
       <item>
         <title>Flowers</title>
-        <description>&lt;p&gt;My page is too dark? Take a rest, enjoy some colors.&lt;/p&gt;
+        <description>&lt;p&gt;Ulsan flowers.&lt;/p&gt;
 
 &lt;style&gt;
     .image-gallery {overflow: auto; margin-left: -1%!important;}
@@ -286,8 +289,10 @@
     
       <item>
         <title>Welcome</title>
-        <description>&lt;p&gt;This is the first time I make a website. I don’t know why I want to do this. Maybe because I am going to graduate next semester and and start my developer career. And maybe building a website is a good begining. With this website, I am going to share things that I think they helpfull or funny for orther people. Again, welcome!. Connect me on &lt;a href=&quot;https://www.facebook.com/duytang.hoang&quot;&gt;Facebook&lt;/a&gt; and take a look on &lt;a href=&quot;https://www.github.com/oattao&quot;&gt;my github repositories&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;Welcome to the dark side of me.&lt;/p&gt;
 
+&lt;!-- [Facebook]: https://www.facebook.com/duytang.hoang --&gt;
+&lt;!-- [my github repositories]: https://www.github.com/oattao --&gt;
 </description>
         <pubDate>Wed, 13 May 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000//Welcome</link>
