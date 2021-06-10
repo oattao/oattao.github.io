@@ -9,4 +9,6 @@ publised: true
 
 DH
 
-{% include image-gallery.html folder="/images/certifications" %}
+### Large image
+
+![](https://github.com/oattao/oattao.github.io/blob/master/images/certifications/dh.png)
