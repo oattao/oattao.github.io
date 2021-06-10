@@ -7,7 +7,6 @@ publised: true
 <!-- categories chenge: use when something change in the website -->
 ---
 <br/><br/>
-### The Grandmaster of Consuming Ice Cream
 <!-- ### Issued on:  June 11, 2021 -->
 ### Certification ID: IX21JS
 
