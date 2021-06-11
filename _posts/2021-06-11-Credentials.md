@@ -1,6 +1,6 @@
 ---
 <!-- layout: gallery -->
-title:  "Certified by Interx CEO (Chief Eating Officer)"
+title:  "Certified by Interx CEO"
 <!-- date:   2021-06-11 23:13:59 +0700 -->
 categories: fun
 publised: true
