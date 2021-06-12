@@ -3,8 +3,8 @@
   <channel>
     <title>Think outside the fox</title>
     <description>A place where I talk to myself. But you can listen, too.</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     <author>
       <name>oattao</name>
       <email>hoang.duy.tang@gmail.com</email>
@@ -12,17 +12,28 @@
     </author>
     
       <item>
-        <title>Certified by Interx CEO (Chief Eating Officer)</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;certification-id-ix21js&quot;&gt;Certification ID: IX21JS&lt;/h3&gt;
+        <title>A song</title>
+        <description>&lt;p&gt;[&lt;img src=&quot;https://www.youtube.com/watch?v=-Dl6CLWLMzk/0.jpg&quot; alt=&quot;IMAGE ALT TEXT&quot; /&gt;](https://www.youtube.com/watch?v=-Dl6CLWLMzk “Forever and One”&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Jun 2021 00:00:00 +0900</pubDate>
+        <link>//A-song</link>
+        <link href="/A-song"/>
+        <guid isPermaLink="true">/A-song</guid>
+      </item>
+    
+      <item>
+        <title>Certified by Interx CEO</title>
+        <description>&lt;h3 id=&quot;certification-id-ix21js&quot;&gt;Certification ID: IX21JS&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;images/certifications/dh.png&quot; align=&quot;center&quot; class=&quot;img-responsive&quot; alt=&quot;&quot; /&gt;
 &lt;!-- &lt;embed src=&quot;https://oattao.github.io/dh.pdf&quot; width=&quot;1660&quot; height=&quot;1192px&quot; /&gt; --&gt;
 &lt;!-- ![](https://github.com/oattao/oattao.github.io/blob/master/images/certifications/dh.png) --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hits.seeyoufarm.com&quot;&gt;&lt;img src=&quot;https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Foattao.github.io%2FCredentials&amp;amp;count_bg=%2379C83D&amp;amp;title_bg=%23555555&amp;amp;icon=&amp;amp;icon_color=%23E7E7E7&amp;amp;title=hits&amp;amp;edge_flat=false&quot; alt=&quot;Hits&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Jun 2021 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//Credentials</link>
-        <link href="http://localhost:4000/Credentials"/>
-        <guid isPermaLink="true">http://localhost:4000/Credentials</guid>
+        <link>//Credentials</link>
+        <link href="/Credentials"/>
+        <guid isPermaLink="true">/Credentials</guid>
       </item>
     
       <item>
@@ -41,250 +52,250 @@
     
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200427_113731.jpg&quot; title=&quot;20200427_113731&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200427_113731.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200427_113731&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200427_113731.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200427_113731&quot; /&gt;
            &lt;!--  &lt;span&gt;20200427_113731&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200429_175615.jpg&quot; title=&quot;20200429_175615&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200429_175615.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200429_175615&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200429_175615.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200429_175615&quot; /&gt;
            &lt;!--  &lt;span&gt;20200429_175615&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200429_175826.jpg&quot; title=&quot;20200429_175826&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200429_175826.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200429_175826&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200429_175826.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200429_175826&quot; /&gt;
            &lt;!--  &lt;span&gt;20200429_175826&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200429_180338.jpg&quot; title=&quot;20200429_180338&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200429_180338.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200429_180338&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200429_180338.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200429_180338&quot; /&gt;
            &lt;!--  &lt;span&gt;20200429_180338&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200430_145003.jpg&quot; title=&quot;20200430_145003&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200430_145003.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200430_145003&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200430_145003.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200430_145003&quot; /&gt;
            &lt;!--  &lt;span&gt;20200430_145003&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200430_150711.jpg&quot; title=&quot;20200430_150711&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200430_150711.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200430_150711&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200430_150711.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200430_150711&quot; /&gt;
            &lt;!--  &lt;span&gt;20200430_150711&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200430_151250.jpg&quot; title=&quot;20200430_151250&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200430_151250.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200430_151250&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200430_151250.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200430_151250&quot; /&gt;
            &lt;!--  &lt;span&gt;20200430_151250&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200501_113917.jpg&quot; title=&quot;20200501_113917&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200501_113917.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200501_113917&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200501_113917.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200501_113917&quot; /&gt;
            &lt;!--  &lt;span&gt;20200501_113917&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200501_170613.jpg&quot; title=&quot;20200501_170613&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200501_170613.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200501_170613&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200501_170613.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200501_170613&quot; /&gt;
            &lt;!--  &lt;span&gt;20200501_170613&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200502_092743.jpg&quot; title=&quot;20200502_092743&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200502_092743.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200502_092743&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200502_092743.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200502_092743&quot; /&gt;
            &lt;!--  &lt;span&gt;20200502_092743&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200502_175819.jpg&quot; title=&quot;20200502_175819&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200502_175819.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200502_175819&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200502_175819.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200502_175819&quot; /&gt;
            &lt;!--  &lt;span&gt;20200502_175819&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200502_175828.jpg&quot; title=&quot;20200502_175828&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200502_175828.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200502_175828&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200502_175828.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200502_175828&quot; /&gt;
            &lt;!--  &lt;span&gt;20200502_175828&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200503_092324.jpg&quot; title=&quot;20200503_092324&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200503_092324.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200503_092324&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200503_092324.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200503_092324&quot; /&gt;
            &lt;!--  &lt;span&gt;20200503_092324&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200503_173956.jpg&quot; title=&quot;20200503_173956&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200503_173956.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200503_173956&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200503_173956.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200503_173956&quot; /&gt;
            &lt;!--  &lt;span&gt;20200503_173956&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200503_174122.jpg&quot; title=&quot;20200503_174122&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200503_174122.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200503_174122&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200503_174122.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200503_174122&quot; /&gt;
            &lt;!--  &lt;span&gt;20200503_174122&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200503_174140.jpg&quot; title=&quot;20200503_174140&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200503_174140.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200503_174140&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200503_174140.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200503_174140&quot; /&gt;
            &lt;!--  &lt;span&gt;20200503_174140&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200503_174851.jpg&quot; title=&quot;20200503_174851&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200503_174851.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200503_174851&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200503_174851.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200503_174851&quot; /&gt;
            &lt;!--  &lt;span&gt;20200503_174851&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200503_174859.jpg&quot; title=&quot;20200503_174859&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200503_174859.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200503_174859&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200503_174859.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200503_174859&quot; /&gt;
            &lt;!--  &lt;span&gt;20200503_174859&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200505_120231.jpg&quot; title=&quot;20200505_120231&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200505_120231.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200505_120231&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200505_120231.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200505_120231&quot; /&gt;
            &lt;!--  &lt;span&gt;20200505_120231&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200505_125247.jpg&quot; title=&quot;20200505_125247&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200505_125247.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200505_125247&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200505_125247.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200505_125247&quot; /&gt;
            &lt;!--  &lt;span&gt;20200505_125247&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200505_125603.jpg&quot; title=&quot;20200505_125603&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200505_125603.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200505_125603&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200505_125603.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200505_125603&quot; /&gt;
            &lt;!--  &lt;span&gt;20200505_125603&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200505_174918.jpg&quot; title=&quot;20200505_174918&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200505_174918.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200505_174918&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200505_174918.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200505_174918&quot; /&gt;
            &lt;!--  &lt;span&gt;20200505_174918&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200506_080049.jpg&quot; title=&quot;20200506_080049&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200506_080049.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200506_080049&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200506_080049.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200506_080049&quot; /&gt;
            &lt;!--  &lt;span&gt;20200506_080049&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200506_174800.jpg&quot; title=&quot;20200506_174800&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200506_174800.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200506_174800&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200506_174800.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200506_174800&quot; /&gt;
            &lt;!--  &lt;span&gt;20200506_174800&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200506_174812.jpg&quot; title=&quot;20200506_174812&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200506_174812.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200506_174812&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200506_174812.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200506_174812&quot; /&gt;
            &lt;!--  &lt;span&gt;20200506_174812&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200506_174822.jpg&quot; title=&quot;20200506_174822&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200506_174822.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200506_174822&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200506_174822.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200506_174822&quot; /&gt;
            &lt;!--  &lt;span&gt;20200506_174822&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200507_163343.jpg&quot; title=&quot;20200507_163343&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200507_163343.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200507_163343&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200507_163343.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200507_163343&quot; /&gt;
            &lt;!--  &lt;span&gt;20200507_163343&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200507_163402.jpg&quot; title=&quot;20200507_163402&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200507_163402.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200507_163402&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200507_163402.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200507_163402&quot; /&gt;
            &lt;!--  &lt;span&gt;20200507_163402&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200507_163411.jpg&quot; title=&quot;20200507_163411&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200507_163411.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200507_163411&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200507_163411.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200507_163411&quot; /&gt;
            &lt;!--  &lt;span&gt;20200507_163411&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200507_164458.jpg&quot; title=&quot;20200507_164458&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200507_164458.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200507_164458&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200507_164458.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200507_164458&quot; /&gt;
            &lt;!--  &lt;span&gt;20200507_164458&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200508_174245.jpg&quot; title=&quot;20200508_174245&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200508_174245.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200508_174245&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200508_174245.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200508_174245&quot; /&gt;
            &lt;!--  &lt;span&gt;20200508_174245&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200508_181738.jpg&quot; title=&quot;20200508_181738&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200508_181738.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200508_181738&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200508_181738.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200508_181738&quot; /&gt;
            &lt;!--  &lt;span&gt;20200508_181738&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200510_091059.jpg&quot; title=&quot;20200510_091059&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200510_091059.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200510_091059&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200510_091059.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200510_091059&quot; /&gt;
            &lt;!--  &lt;span&gt;20200510_091059&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200511_084536.jpg&quot; title=&quot;20200511_084536&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200511_084536.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200511_084536&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200511_084536.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200511_084536&quot; /&gt;
            &lt;!--  &lt;span&gt;20200511_084536&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200511_084752.jpg&quot; title=&quot;20200511_084752&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200511_084752.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200511_084752&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200511_084752.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200511_084752&quot; /&gt;
            &lt;!--  &lt;span&gt;20200511_084752&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200511_191223.jpg&quot; title=&quot;20200511_191223&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200511_191223.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200511_191223&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200511_191223.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200511_191223&quot; /&gt;
            &lt;!--  &lt;span&gt;20200511_191223&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200512_174302.jpg&quot; title=&quot;20200512_174302&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200512_174302.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200512_174302&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200512_174302.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200512_174302&quot; /&gt;
            &lt;!--  &lt;span&gt;20200512_174302&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200512_175850.jpg&quot; title=&quot;20200512_175850&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200512_175850.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200512_175850&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200512_175850.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200512_175850&quot; /&gt;
            &lt;!--  &lt;span&gt;20200512_175850&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200513_174459.jpg&quot; title=&quot;20200513_174459&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200513_174459.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200513_174459&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200513_174459.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200513_174459&quot; /&gt;
            &lt;!--  &lt;span&gt;20200513_174459&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;a href=&quot;/images/flowers/20200513_181241.jpg&quot; title=&quot;20200513_181241&quot;&gt;
-            &lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/images/flowers/20200513_181241.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200513_181241&quot; /&gt;
+            &lt;img src=&quot;//images.weserv.nl/?url=/images/flowers/20200513_181241.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;20200513_181241&quot; /&gt;
            &lt;!--  &lt;span&gt;20200513_181241&lt;/span&gt; --&gt;
         &lt;/a&gt;
     &lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 14 May 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//flowers</link>
-        <link href="http://localhost:4000/flowers"/>
-        <guid isPermaLink="true">http://localhost:4000/flowers</guid>
+        <link>//flowers</link>
+        <link href="/flowers"/>
+        <guid isPermaLink="true">/flowers</guid>
       </item>
     
       <item>
@@ -295,9 +306,9 @@
 &lt;!-- [my github repositories]: https://www.github.com/oattao --&gt;
 </description>
         <pubDate>Wed, 13 May 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//Welcome</link>
-        <link href="http://localhost:4000/Welcome"/>
-        <guid isPermaLink="true">http://localhost:4000/Welcome</guid>
+        <link>//Welcome</link>
+        <link href="/Welcome"/>
+        <guid isPermaLink="true">/Welcome</guid>
       </item>
     
   </channel>
