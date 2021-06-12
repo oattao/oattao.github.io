@@ -10,3 +10,5 @@ publised: true
 <img src="images/certifications/dh.png" align="center" class="img-responsive" alt="">
 <!-- <embed src="https://oattao.github.io/dh.pdf" width="1660" height="1192px" /> -->
 <!-- ![](https://github.com/oattao/oattao.github.io/blob/master/images/certifications/dh.png) -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Foattao.github.io%2FCredentials&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
